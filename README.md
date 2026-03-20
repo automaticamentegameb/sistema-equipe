@@ -1,2 +1,5 @@
-# sistema-equipe
-atividade 19/03/2026
+# Sistema da Equipe
+Este projeto apresenta os membros da equipe.
+-Gabriel de Morais Freitas
+-João Vitor Augusto T.
+-Samuel Obryan Lauro de Melo
